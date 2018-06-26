@@ -1,4 +1,6 @@
+print('Введите x')
 x=int(input())
+print('Введите y')
 y=int(input())
-print("Ответ")
+print("x+y=")
 print(x+y)
